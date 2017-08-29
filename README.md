@@ -2,7 +2,7 @@
 
 This workflow will list your Docker containers. You can control them for start, stop, remove and so on.
 
-![WX20170828-181115@2x](/Users/morenpeng/Downloads/WX20170828-181115@2x.png)
+![WX20170828-181115@2x](https://ws2.sinaimg.cn/large/006tNc79ly1fj0fda7t05j30vq0d875n.jpg)
 
 [**Download Workflow**](https://github.com/luogreen/alfred-workflow-docker/releases/download/1.01/docker.alfredworkflow)
 
